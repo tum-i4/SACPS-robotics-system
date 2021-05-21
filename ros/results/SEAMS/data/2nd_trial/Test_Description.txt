@@ -1,0 +1,7 @@
+Parameters used:
+- Fixed expected probability (e) to 60%
+- False positives with 50% probability: enabled/disabled
+
+
+Purpose of the test:
+1. Compare results with vs without false positives

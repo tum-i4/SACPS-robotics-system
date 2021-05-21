@@ -1,0 +1,8 @@
+
+Parameters used:
+- Fixed expected probability (e) to 60%
+- No false positives were considered in this test (not implemented yet)
+
+
+Purpose of the test:
+1. Compare results of runs with 2 and 3 robots
